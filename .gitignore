@@ -1,0 +1,6 @@
+*
+!/**/
+!/**/**/
+!/**/**/src/*.cpp
+!.gitignore
+!simple-project.zip
