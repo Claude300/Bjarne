@@ -1,6 +1,9 @@
-*
-!/**/
-!/**/**/
-!/**/**/src/*.cpp
-!.gitignore
-!simple-project.zip
+#*
+#!/**/
+#!/**/**/
+#!/**/**/src/*.cpp
+#!.gitignore
+#!simple-project.zip
+
+/**/build*/*
+/**/**/*.user
