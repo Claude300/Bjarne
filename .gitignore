@@ -5,5 +5,5 @@
 #!.gitignore
 #!simple-project.zip
 
-/**/build*/*
-/**/**/*.user
+#/**/build*/*
+#/**/**/*.user
