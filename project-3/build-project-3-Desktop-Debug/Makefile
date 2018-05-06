@@ -1004,17 +1004,7 @@ call_stack_windows.o: ../project-3/lib/StanfordCPPLib/stacktrace/call_stack_wind
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o call_stack_windows.o ../project-3/lib/StanfordCPPLib/stacktrace/call_stack_windows.cpp
 
 project-3.o: ../project-3/src/project-3.cpp ../project-3/lib/StanfordCPPLib/console.h \
-		../project-3/lib/StanfordCPPLib/private/main.h \
-		../project-3/lib/StanfordCPPLib/gwindow.h \
-		../project-3/lib/StanfordCPPLib/gtypes.h \
-		../project-3/lib/StanfordCPPLib/point.h \
-		../project-3/lib/StanfordCPPLib/vector.h \
-		../project-3/lib/StanfordCPPLib/compare.h \
-		../project-3/lib/StanfordCPPLib/error.h \
-		../project-3/lib/StanfordCPPLib/hashcode.h \
-		../project-3/lib/StanfordCPPLib/random.h \
-		../project-3/lib/StanfordCPPLib/strlib.h \
-		../project-3/lib/StanfordCPPLib/simpio.h
+		../project-3/lib/StanfordCPPLib/private/main.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o project-3.o ../project-3/src/project-3.cpp
 
 ####### Install
