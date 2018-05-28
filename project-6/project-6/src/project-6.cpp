@@ -13,6 +13,7 @@ int main()
    cout << "  How are you? " << "I'm fine. I miss you a lots." << "\n";
    cout << "Do you come to Robertville this summer?" << '\n';
    cout << "Have a nice day! Come visit some day." << '\n';
-   cout << "Have you see ower friend " << friend_name << '?';
+   cout << "Have you see ower friend " << friend_name << "?\n";
+   cout << "Bye! Bye!";
    return 0;
 }
