@@ -16,10 +16,7 @@ using namespace std;
 int main
 {
     cout << "hello, world" << endl;
-    cout << "hello, world" << endl;
-    cout << "hello, world" << endl;
-    cout << "hello, world" << endl;
-    cout << "hello, world" << endl;
+    cout << "another test understanding more and moreld" << endl;
     
     return 0;
 }
